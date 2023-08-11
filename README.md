@@ -11,13 +11,12 @@ O site de restaurante é uma representação virtual de um estabelecimento de co
 
 -   HTML5: Utilizado para estruturar o conteúdo do site de maneira semântica.
 -   CSS3: Utilizado para estilizar os elementos e criar um layout agradável.
--   JavaScript: Implementação de interatividade e funcionalidades como menus interativos e animações.
--   Design Responsivo: O site foi desenvolvido para ser acessível em diferentes dispositivos, adaptando-se a várias resoluções de tela.
+-   JavaScript: Implementação de interatividade e funcionalidades como menus interativos e animações
 -   Git: Controle de versão usando o Git para rastrear alterações e facilitar a colaboração.
 
 ## Como Visualizar
 
-Para ver o site de restaurante, basta abrir o link https://fushisuno.github.io/Klandesy/ em um navegador web moderno. O site foi projetado para ser responsivo e adaptar-se automaticamente ao tamanho da tela.
+Para ver o site de restaurante, basta abrir o link https://fushisuno.github.io/Klandesy/ em um navegador web.
 
 ## Contato
 
